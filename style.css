@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    font-size:115%;
+    font-family:sans-serif;
+    margin:1% 20% 15% 12%;
+    background-color:#696969;
+}
+
+header,nav,footer {
+    width:100%;
+    float:left;
+    padding:30px;
+    background-color:#ccc;
+    margin-bottom:5px;
+    margin-top:5px;
+    clear:both;
+}
+
+section {
+    float:left;
+    background-color:#ccc;
+    padding:20px 10px 5px 10px;
+    width:50%;
+    margin-top:10px;
+    margin-bottom:10px;
+    clear:both;
+}
+
+article {
+    background-color:#696969;
+    color:white;
+    padding:20px 25px 20px 20px;
+    margin-top:20px;
+    position:relative;
+}
+
+.internal {
+    background-color:#ccc;
+    color:#696969;
+    margin-top:10px;
+    margin-bottom:1px;
+    padding:10px;
+}
+
+/*height and width should be dynamic?*/
+
+aside {
+    float:left;
+    background-color:#ccc;
+    padding:20px 10px 10px 10px;
+    width:40%;
+    height:204px;
+    margin-top:10px;
+    margin-right:0px;
+    margin-bottom:10px;
+    margin-left:10px;
+}
+
